@@ -1,0 +1,67 @@
+8
+
+dir
+88
+https://darwingp.svn.sourceforge.net/svnroot/darwingp/darwin/fitness
+https://darwingp.svn.sourceforge.net/svnroot/darwingp
+
+
+
+2009-09-09T18:03:28.279617Z
+30
+darwinproject
+
+
+svn:special svn:externals svn:needs-lock
+
+multiobjective
+dir
+
+FitnessJob.java
+file
+
+
+
+
+2009-08-29T22:45:00.089875Z
+86cefdb8f96b7a2c05f533ac3c6c7359
+2009-09-09T18:03:28.279617Z
+30
+darwinproject
+
+FitnessJobInput.java
+file
+
+
+
+
+2009-08-25T21:05:10.050875Z
+ed499f507a6d2a4067976cb2f07cebe8
+2009-09-09T18:03:28.279617Z
+30
+darwinproject
+
+FitnessJobOutput.java
+file
+
+
+
+
+2009-08-29T22:44:43.043000Z
+8e11238a2d2abb4ddfca5f002995150b
+2009-09-09T18:03:28.279617Z
+30
+darwinproject
+
+Fitness.java
+file
+
+
+
+
+2009-10-16T03:02:41.906250Z
+33a094dc359a349cc6b19155b9f95ef1
+2009-09-09T18:03:28.279617Z
+30
+darwinproject
+

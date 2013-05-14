@@ -1,0 +1,64 @@
+8
+
+dir
+88
+https://darwingp.svn.sourceforge.net/svnroot/darwingp/symbolicRegression/environment
+https://darwingp.svn.sourceforge.net/svnroot/darwingp
+
+
+
+2009-09-09T18:03:28.279617Z
+30
+darwinproject
+
+
+svn:special svn:externals svn:needs-lock
+
+XYValues.java
+file
+
+
+
+
+2009-08-31T06:21:36.574250Z
+e39ad401ee88a4467833e3b7655a4ba2
+2009-09-09T18:03:28.279617Z
+30
+darwinproject
+
+Position.java
+file
+
+
+
+
+2009-08-24T06:13:04.923684Z
+e02c6e8bf76e8509985917ac6ead2374
+2009-09-09T18:03:28.279617Z
+30
+darwinproject
+
+Function.java
+file
+
+
+
+
+2009-08-24T06:13:04.923684Z
+39fc8c5a079d11ef8faa363f53288855
+2009-09-09T18:03:28.279617Z
+30
+darwinproject
+
+TargetFunction.java
+file
+
+
+
+
+2009-08-31T06:21:36.574250Z
+32d10a466a2b1198bc2bf666bbd62617
+2009-09-09T18:03:28.279617Z
+30
+darwinproject
+

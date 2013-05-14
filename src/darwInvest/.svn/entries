@@ -1,0 +1,109 @@
+8
+
+dir
+88
+https://darwingp.svn.sourceforge.net/svnroot/darwingp/darwInvest
+https://darwingp.svn.sourceforge.net/svnroot/darwingp
+
+
+
+2009-11-16T21:16:22.693516Z
+88
+jysung100
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f20baa54-c0d8-4640-857c-f762349c8c28
+
+Test.java
+file
+
+
+
+
+2009-11-09T20:34:38.766626Z
+5ec1be11f22cf72d9e6496bce35994de
+2009-11-16T04:02:37.128453Z
+87
+darwinproject
+
+output
+dir
+
+FitnessAnalyzer.java
+file
+
+
+
+
+2009-10-16T22:30:11.437500Z
+d82d0e92d03665c790928b6837cc4d57
+2009-10-19T22:23:47.594250Z
+61
+darwinproject
+
+processable
+dir
+
+environment
+dir
+
+nodeType
+dir
+
+evaluation
+dir
+
+data
+dir
+
+FileManager.java
+file
+
+
+
+
+2009-11-02T21:28:11.518875Z
+fb0fe2be78d673d4de6af12eb5f87e89
+2009-11-02T22:27:07.990844Z
+80
+darwinproject
+
+news
+dir
+
+NodeFactory.java
+file
+
+
+
+
+2009-11-09T20:44:44.509170Z
+b081b16d93206f9f5b014b920b89f950
+2009-11-16T04:02:37.128453Z
+87
+darwinproject
+
+DarwinSheet.java
+file
+
+
+
+
+2009-10-05T20:14:58.245321Z
+00e15a8c2f4cf215aed4ab6eae26f6ee
+2009-10-06T16:46:08.883200Z
+54
+darwinproject
+

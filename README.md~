@@ -7,9 +7,7 @@ This project is no longer maintained or supported. If you find this useful and w
 
 I wrote this back in 2010, when I was a Sophomore in Undergrad. I have not used it or updated it since then. I was an okay programmer back then, but I've learned a lot since then so no guarantees on quality here. I'm dumping this here because I am taking down my old blog and a lot of people would download this from there.
 
-This was before I knew about such things as _patterns_, _testing_, and _libraries_, so there's bad practice all over the place. I don't remember how to use it, what state it was left in, whether it even still works or exactly what each component was supposed to do. That being said, there's probably still some useful code so if you want to root around, feel free.
-
-I remember it being pretty slow, somewhat buggy, and horribly memory-inefficient -- though surprisingly educational.
+This was before I knew about such things as _patterns_ and _libraries_, so there's bad practice all over the place. I don't remember how to use it, what state it was left in, whether it even still works or exactly what each component was supposed to do. That being said, there's probably still some useful code so if you want to root around, feel free.
 
 Released under the WTFPL.
 

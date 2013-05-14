@@ -1,0 +1,52 @@
+8
+
+dir
+88
+https://darwingp.svn.sourceforge.net/svnroot/darwingp/darwInvest/data/index
+https://darwingp.svn.sourceforge.net/svnroot/darwingp
+
+
+
+2009-11-03T04:48:27.368826Z
+83
+darwinproject
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f20baa54-c0d8-4640-857c-f762349c8c28
+
+IndexItem.java
+file
+
+
+
+
+2009-11-03T03:20:09.597000Z
+56afc9b8af2b91d8b0972627e01e7769
+2009-11-03T04:48:27.368826Z
+83
+darwinproject
+
+TickerIndex.java
+file
+
+
+
+
+2009-10-04T23:32:35.626000Z
+19aab239a2746d156ccbf84ac6146de6
+2009-10-04T23:01:45.654962Z
+50
+darwinproject
+

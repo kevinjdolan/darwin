@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/darwingp/!svn/ver/30/darwin/geneticOperation
+END
+GeneticOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/darwingp/!svn/ver/30/darwin/geneticOperation/GeneticOperation.java
+END
+ShrinkMutation.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/darwingp/!svn/ver/30/darwin/geneticOperation/ShrinkMutation.java
+END
+SubtreeCrossover.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/darwingp/!svn/ver/30/darwin/geneticOperation/SubtreeCrossover.java
+END
+UnableToPerformOperationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/darwingp/!svn/ver/30/darwin/geneticOperation/UnableToPerformOperationException.java
+END
+NodeReplacementMutation.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/darwingp/!svn/ver/30/darwin/geneticOperation/NodeReplacementMutation.java
+END
+HoistMutation.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/darwingp/!svn/ver/30/darwin/geneticOperation/HoistMutation.java
+END
+ConstantMutation.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/darwingp/!svn/ver/30/darwin/geneticOperation/ConstantMutation.java
+END
+SubtreeMutation.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/darwingp/!svn/ver/30/darwin/geneticOperation/SubtreeMutation.java
+END
+Swap.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/darwingp/!svn/ver/30/darwin/geneticOperation/Swap.java
+END
+Reproduction.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/darwingp/!svn/ver/30/darwin/geneticOperation/Reproduction.java
+END

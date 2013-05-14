@@ -1,0 +1,52 @@
+8
+
+dir
+88
+https://darwingp.svn.sourceforge.net/svnroot/darwingp/darwInvest/data/gathering/dataSource/reuters
+https://darwingp.svn.sourceforge.net/svnroot/darwingp
+
+
+
+2009-11-03T04:48:27.368826Z
+83
+darwinproject
+
+
+svn:special svn:externals svn:needs-lock
+
+URLExploreJob.java
+file
+
+
+
+
+2009-11-03T04:03:38.847000Z
+30656ea541dca7f1c23d06748950e465
+2009-11-03T04:48:27.368826Z
+83
+darwinproject
+
+URLExploreJobInput.java
+file
+
+
+
+
+2009-11-03T03:42:15.628250Z
+4142fc776f45b7d6d504df2159dbe18c
+2009-11-03T04:48:27.368826Z
+83
+darwinproject
+
+URLExploreJobOutput.java
+file
+
+
+
+
+2009-11-03T03:42:23.956375Z
+1f890ec77f3cbae01273cfefc331bb1d
+2009-11-03T04:48:27.368826Z
+83
+darwinproject
+

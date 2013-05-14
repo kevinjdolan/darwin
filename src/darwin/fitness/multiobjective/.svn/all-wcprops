@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/darwingp/!svn/ver/30/darwin/fitness/multiobjective
+END
+MultiobjectiveJobInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/darwingp/!svn/ver/30/darwin/fitness/multiobjective/MultiobjectiveJobInput.java
+END
+MultiobjectiveJobOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/darwingp/!svn/ver/30/darwin/fitness/multiobjective/MultiobjectiveJobOutput.java
+END
+EuclideanJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/darwingp/!svn/ver/30/darwin/fitness/multiobjective/EuclideanJob.java
+END
+Multiobjective.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/darwingp/!svn/ver/30/darwin/fitness/multiobjective/Multiobjective.java
+END
+Euclidean.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/darwingp/!svn/ver/30/darwin/fitness/multiobjective/Euclidean.java
+END
+Pareto.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/darwingp/!svn/ver/30/darwin/fitness/multiobjective/Pareto.java
+END
+DominationJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/darwingp/!svn/ver/30/darwin/fitness/multiobjective/DominationJob.java
+END

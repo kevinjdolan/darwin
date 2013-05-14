@@ -1,0 +1,53 @@
+package darwin.initialization;
+
+import darwin.geneticOperation.UnableToPerformOperationException;
+import darwin.nodeFilter.ReturnType;
+import darwin.nodeFilter.Terminals;
+import darwin.nodeFilter.Functions;
+import darwin.population.Node;
+import darwin.population.TypeMismatchException;
+import darwin.problemObject.NodeFactory;
+
+/**
+ * Generator representing the Full method, as described by Koza
+ * @author Kevin Dolan
+ */
+public class Full implements Generator {
+
+	private NodeFactory nodeFactory;
+	
+	public Full(NodeFactory nodeFactory) {
+		this.nodeFactory = nodeFactory;
+	}
+	
+	@Override
+	public Node generate(int depth, Class<?> returnType) throws UnableToPerformOperationException {
+		Node current;
+		
+		try {
+			if(depth > 1)
+				current = nodeFactory.getNode(new Functions(returnType));
+			else
+				current = nodeFactory.getNode(new Terminals(returnType));
+		}
+		catch(NoAvailableNodeException e) {
+			try {
+				current = nodeFactory.getNode(new ReturnType(returnType));
+			} catch (NoAvailableNodeException e1) {
+				throw new UnableToPerformOperationException();
+			}
+		}
+		
+		int arity = current.getArity();
+		for(int i = 0; i < arity; i++)
+			try {
+				current.setChildNode(i, generate(depth - 1, current.getChildType(i)));
+			} catch (TypeMismatchException e) {
+				//Logically inaccessible
+				e.printStackTrace();
+			}
+		
+		return current;
+	}
+
+}

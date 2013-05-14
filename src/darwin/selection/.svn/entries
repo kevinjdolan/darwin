@@ -1,0 +1,64 @@
+8
+
+dir
+88
+https://darwingp.svn.sourceforge.net/svnroot/darwingp/darwin/selection
+https://darwingp.svn.sourceforge.net/svnroot/darwingp
+
+
+
+2009-09-09T18:03:28.279617Z
+30
+darwinproject
+
+
+svn:special svn:externals svn:needs-lock
+
+NegativeTournament.java
+file
+
+
+
+
+2009-08-27T22:27:57.812247Z
+098f6dcdc8dd4c31346c1d3696b401df
+2009-09-09T18:03:28.279617Z
+30
+darwinproject
+
+FitnessProportional.java
+file
+
+
+
+
+2009-08-27T22:28:19.492373Z
+cb64cd284e1adcc5827eddca86d17942
+2009-09-09T18:03:28.279617Z
+30
+darwinproject
+
+Selection.java
+file
+
+
+
+
+2009-08-27T22:26:43.685231Z
+1e91388c4b40b340f3da9c980d5d0fc9
+2009-09-09T18:03:28.279617Z
+30
+darwinproject
+
+Tournament.java
+file
+
+
+
+
+2009-08-27T22:28:01.116479Z
+7d3db3d3d2aa1050f2ed9a035ef2cd52
+2009-09-09T18:03:28.279617Z
+30
+darwinproject
+

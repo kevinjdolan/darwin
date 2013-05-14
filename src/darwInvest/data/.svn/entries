@@ -1,0 +1,73 @@
+8
+
+dir
+88
+https://darwingp.svn.sourceforge.net/svnroot/darwingp/darwInvest/data
+https://darwingp.svn.sourceforge.net/svnroot/darwingp
+
+
+
+2009-11-16T04:02:37.128453Z
+87
+darwinproject
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f20baa54-c0d8-4640-857c-f762349c8c28
+
+DataLoader.java
+file
+
+
+
+
+2009-10-23T00:20:18.038250Z
+873f274b90148e8baba873b1907685e5
+2009-10-21T15:40:12.466943Z
+67
+aperrau
+
+Ticker.java
+file
+
+
+
+
+2009-11-03T03:53:24.362625Z
+6755576b763d972d84664ddf6754f53f
+2009-11-03T04:48:27.368826Z
+83
+darwinproject
+
+utility
+dir
+
+index
+dir
+
+gathering
+dir
+
+NewsEvent.java
+file
+
+
+
+
+2009-11-02T21:32:00.925125Z
+e3b51f44f1b3a8863af4a44b8579ac7a
+2009-11-02T22:27:07.990844Z
+80
+darwinproject
+

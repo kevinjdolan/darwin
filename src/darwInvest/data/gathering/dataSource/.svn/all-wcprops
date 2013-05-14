@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/darwingp/!svn/ver/86/darwInvest/data/gathering/dataSource
+END
+GoogleFinanceAutoNASDAQ.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/darwingp/!svn/ver/79/darwInvest/data/gathering/dataSource/GoogleFinanceAutoNASDAQ.java
+END
+ProquestGoogleFinanceNYSE.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/darwingp/!svn/ver/89/darwInvest/data/gathering/dataSource/ProquestGoogleFinanceNYSE.java
+END
+ReutersNews.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/darwingp/!svn/ver/82/darwInvest/data/gathering/dataSource/ReutersNews.java
+END
+GoogleFinanceAutoNYSE.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/darwingp/!svn/ver/79/darwInvest/data/gathering/dataSource/GoogleFinanceAutoNYSE.java
+END
+ReutersGoogleFinanceNYSE.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/darwingp/!svn/ver/84/darwInvest/data/gathering/dataSource/ReutersGoogleFinanceNYSE.java
+END
+DataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/darwingp/!svn/ver/66/darwInvest/data/gathering/dataSource/DataSource.java
+END
+ConstantSlope.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/darwingp/!svn/ver/48/darwInvest/data/gathering/dataSource/ConstantSlope.java
+END
+CSVReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/darwingp/!svn/ver/71/darwInvest/data/gathering/dataSource/CSVReader.java
+END
+GoogleFinanceManual.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/darwingp/!svn/ver/62/darwInvest/data/gathering/dataSource/GoogleFinanceManual.java
+END

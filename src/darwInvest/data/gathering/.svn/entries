@@ -1,0 +1,55 @@
+8
+
+dir
+88
+https://darwingp.svn.sourceforge.net/svnroot/darwingp/darwInvest/data/gathering
+https://darwingp.svn.sourceforge.net/svnroot/darwingp
+
+
+
+2009-11-16T04:02:37.128453Z
+87
+darwinproject
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f20baa54-c0d8-4640-857c-f762349c8c28
+
+CSVFilter.java
+file
+
+
+
+
+2009-10-19T22:10:10.612250Z
+b368aab98efff938288a3fc345b74f3f
+2009-10-19T21:53:02.468775Z
+58
+aperrau
+
+dataSource
+dir
+
+Driver.java
+file
+89
+
+
+
+2009-11-23T18:43:38.745399Z
+c900fe5d7a21c60c5371a58d73c42ffc
+2009-11-23T18:42:40.264380Z
+89
+darwinproject
+

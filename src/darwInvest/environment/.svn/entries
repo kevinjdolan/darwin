@@ -1,0 +1,52 @@
+8
+
+dir
+88
+https://darwingp.svn.sourceforge.net/svnroot/darwingp/darwInvest/environment
+https://darwingp.svn.sourceforge.net/svnroot/darwingp
+
+
+
+2009-10-19T22:23:47.594250Z
+61
+darwinproject
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f20baa54-c0d8-4640-857c-f762349c8c28
+
+Settings.java
+file
+
+
+
+
+2009-10-17T16:02:19.774943Z
+39b2fa48631b221ffabe21d9efbe4780
+2009-10-19T22:23:47.594250Z
+61
+darwinproject
+
+StrategyParameters.java
+file
+
+
+
+
+2009-10-04T23:32:36.188500Z
+fe3a8654836962000eb5898b3db9b118
+2009-10-04T23:01:45.654962Z
+50
+darwinproject
+

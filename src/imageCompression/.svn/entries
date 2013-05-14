@@ -1,0 +1,94 @@
+8
+
+dir
+88
+https://darwingp.svn.sourceforge.net/svnroot/darwingp/imageCompression
+https://darwingp.svn.sourceforge.net/svnroot/darwingp
+
+
+
+2009-11-16T04:02:37.128453Z
+87
+darwinproject
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f20baa54-c0d8-4640-857c-f762349c8c28
+
+Output.java
+file
+
+
+
+
+2009-08-31T18:10:49.000328Z
+4b943ffbba6aace1dff6dde9881d116a
+2009-09-09T18:03:28.279617Z
+30
+darwinproject
+
+FitnessAnalyzer.java
+file
+
+
+
+
+2009-08-31T22:18:05.383250Z
+0c9374db24fe39feac09084ac59e4755
+2009-09-09T18:03:28.279617Z
+30
+darwinproject
+
+processable
+dir
+
+nodeType
+dir
+
+Picture.java
+file
+
+
+
+
+2009-08-31T21:40:42.664500Z
+3ffadbc99704c9bedaaabfc8bd595e83
+2009-09-09T18:03:28.279617Z
+30
+darwinproject
+
+DarwinSheet.java
+file
+
+
+
+
+2009-08-31T17:50:56.453016Z
+f18b532c0a2b7d9665fa8e8f865220af
+2009-09-09T18:03:28.279617Z
+30
+darwinproject
+
+NodeFactory.java
+file
+
+
+
+
+2009-11-09T20:45:51.159490Z
+2e774c9293f1f6543688a000b17e4de1
+2009-11-16T04:02:37.128453Z
+87
+darwinproject
+

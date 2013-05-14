@@ -1,0 +1,76 @@
+8
+
+dir
+88
+https://darwingp.svn.sourceforge.net/svnroot/darwingp/glass/drawing
+https://darwingp.svn.sourceforge.net/svnroot/darwingp
+
+
+
+2009-11-16T04:02:37.128453Z
+87
+darwinproject
+
+
+svn:special svn:externals svn:needs-lock
+
+Shape.java
+file
+
+
+
+
+2009-11-09T20:55:19.402418Z
+7fa7e415eef7a1e60f7630280e41c52e
+2009-11-16T04:02:37.128453Z
+87
+darwinproject
+
+Circle.java
+file
+
+
+
+
+2009-11-09T20:58:28.952482Z
+17de17b3f217da1f1830d60ce09b2c8d
+2009-11-16T04:02:37.128453Z
+87
+darwinproject
+
+Triangle.java
+file
+
+
+
+
+2009-11-09T21:17:50.908002Z
+921f25771b19634133c48f82134060ae
+2009-11-16T04:02:37.128453Z
+87
+darwinproject
+
+Picture.java
+file
+
+
+
+
+2009-11-09T22:28:16.287750Z
+4bb58041e4fdedc831be835ba6caf0c3
+2009-11-16T04:02:37.128453Z
+87
+darwinproject
+
+ShapeSet.java
+file
+
+
+
+
+2009-11-09T21:54:32.686834Z
+f401a78350ee1fd728860e13ad13d38b
+2009-11-16T04:02:37.128453Z
+87
+darwinproject
+
